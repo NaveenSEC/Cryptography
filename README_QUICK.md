@@ -62,35 +62,28 @@
     * **TODO**???
     * **TODO**???
 
-
-
-
-
+## Development Tips
 \# 1. Clone your Cryptography repository
 
+``
 git clone https://github.com/NaveenSEC/Cryptography.git
-
 cd Cryptography
-
-
+``
 
 \# 2. Open in VS Code
-
+``
 code .
-
-
+``
 
 \# 3. Make your edits, then stage \& commit
-
+``
 git status
-
 git add .
-
 git commit -m "Add cryptographic algorithms and scripts"
-
-
+``
 
 \# 4. Push directly to the main branch
-
+``
 git push origin main
+``
 
